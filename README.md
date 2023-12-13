@@ -12,4 +12,5 @@
 
 💎 - In the next years, I want to enter in the course of Software Engineering in Goias Federal University (UFG), with an provisional exchange in a Asian or European university for S.E.
 
-## Tools and Languages
+## 🎭 | Tools and Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height= "40" weight= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height = "40" weight = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" height="40" weight= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height = "40" weight = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height= "40" widht = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height = "40" widht = "40" />
