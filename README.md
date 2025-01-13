@@ -10,7 +10,6 @@
 
 🦋 - I'm bilingual, I know fluently portuguese and english. But I want to learn signal language, italian and chinese, in the next years.
 
-💎 - In the next years, I want to enter in the course of Software Engineering in Goias Federal University (UFG), with an provisional exchange in a Asian or European university for S.E.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/noraadrenalinaa) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/enzo-oliveira-finotti-a56054214/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__nauta/)[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/6/#inbox?compose=GTvVlcSGMSzbcvJrVtwPrgtszqhGMqdWfGmHnPmCGWSZVzdHtcMpXfRKzchdclVwjHhfGmZZDqRQW) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
