@@ -2,7 +2,7 @@
 ![Header for HGithub](https://github.com/kwickdex/kwickdex/assets/99213966/8128ab39-6397-4f25-a813-07662e9d5944)
 
 ## 📿 | About me
-💻 - My name is Enzo, Kwickdex, Oliveira Finotti, I'm a programmer from Goiânia, Goiás (Brazil). I'm eighteen years old, and a coding and computational lover. 
+💻 - My name is Enzo, Kwickdex, Oliveira Finotti, I'm a programmer from Goiânia, Goiás (Brazil) and a student of bachelor's degree in information systems in Goiás State University. I'm eighteen years old, and a coding and computational lover. 
 
 🎆 - In my Highschool (2022-2024), i did a technical course of gamemaking in my own school at the same time of the normal schedule of highschool.
 
