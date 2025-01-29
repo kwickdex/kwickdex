@@ -22,3 +22,5 @@
 
 ## 🎭 | GitHub Stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=kwickdex)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwickdex)](https://github.com/kwickdex/github-readme-stats)
