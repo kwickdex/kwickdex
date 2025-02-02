@@ -1,5 +1,3 @@
-## 🐛 | Enzo Oliveira Finotti
-![Header for HGithub](https://github.com/kwickdex/kwickdex/assets/99213966/8128ab39-6397-4f25-a813-07662e9d5944)
 
 ## 📿 | About me
 💻 - My name is Enzo, Kwickdex, Oliveira Finotti, I'm a programmer from Goiânia, Goiás (Brazil) and a student of bachelor's degree in Information Systems in Goiás State University. I'm eighteen years old, and a coding and computational lover. 
