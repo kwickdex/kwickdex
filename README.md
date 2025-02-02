@@ -1,12 +1,6 @@
 
 ## 📿 | About me
-💻 - My name is Enzo, Kwickdex, Oliveira Finotti, I'm a programmer from Goiânia, Goiás (Brazil) and a student of bachelor's degree in Information Systems in Goiás State University. I'm eighteen years old, and a coding and computational lover. 
-
-🎆 - In my Highschool (2022-2024), i did a technical course of gamemaking in my own school at the same time of the normal schedule of highschool.
-
-☎️ - Since 2020, I'm part of the robotics world. In Sesi Campinas, which was my school since that year (2020), I joined Star Guardians - a First Lego League team, which I achieved and reach the international stage. Since 2023, i joined the First Tech Challenge team, Nexus, in the role of Programmer.
-
-🦋 - I'm bilingual, I know fluently portuguese and english. 
+💻 - My name is Enzo, Kwickdex, Oliveira Finotti, I'm a programmer from Goiânia, Goiás (Brazil) and a student of bachelor's degree in Information Systems in Goiás State University. I'm eighteen years old.
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/noraadrenalinaa) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/enzo-oliveira-finotti-a56054214/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__nauta/)[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/6/#inbox?compose=GTvVlcSGMSzbcvJrVtwPrgtszqhGMqdWfGmHnPmCGWSZVzdHtcMpXfRKzchdclVwjHhfGmZZDqRQW) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
